@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.exe.config
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.exe
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.pdb
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.exe
+C:\Users\Hp\source\repos\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.pdb

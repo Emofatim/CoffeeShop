@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\coffeeshopapp\\starbucks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|solutionrelative:coffeeshopapp\\starbucks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|c:\\users\\hp\\source\\repos\\coffeeshopapp\\coffeeshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|solutionrelative:coffeeshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\coffeeshopapp\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|solutionrelative:coffeeshopapp\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\coffeeshopapp\\dunkindonuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205FB16-B5BD-4CB0-B1E2-235059AB59D0}|CoffeeShopApp\\CoffeeShopApp.csproj|solutionrelative:coffeeshopapp\\dunkindonuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "CoffeeShopApp\\CoffeeShop.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\CoffeeShop.cs",
+              "RelativeToolTip": "CoffeeShopApp\\CoffeeShop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:11:06.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarBucks.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\StarBucks.cs",
+              "RelativeDocumentMoniker": "CoffeeShopApp\\StarBucks.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\StarBucks.cs*",
+              "RelativeToolTip": "CoffeeShopApp\\StarBucks.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:11:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DunkinDonuts.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\DunkinDonuts.cs",
+              "RelativeDocumentMoniker": "CoffeeShopApp\\DunkinDonuts.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\DunkinDonuts.cs",
+              "RelativeToolTip": "CoffeeShopApp\\DunkinDonuts.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:11:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CoffeeShopApp\\CoffeeShopApp\\Program.cs",
+              "RelativeToolTip": "CoffeeShopApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:10:00.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
